@@ -19,5 +19,5 @@ API RESTful para gerenciamento de pedidos desenvolvida com Node.js, Express e Po
 
 1. Clone o repositório:
 ```bash
-git clone <seu-repo-url>
+git clone <https://github.com/Carolina-Extermina/Teste/tree/main>
 cd desafio-api-pedidos
